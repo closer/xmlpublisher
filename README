@@ -1,13 +1,18 @@
-xmlpublisher
+# XMLPuplisher
 
-usage: 
-with(new ProcessBuilder) {
+XMLPublisher is Automatic Layouting Library on Adobe InDesign.
 
-name = "Hoge"
-xpath = "hoge"
-apply = function(element, proseccer) {
-  
-}
+## How to install
 
-}
+## usage
+ 
+    with(new ProcessBuilder) {
+    
+    name = "Hoge"
+    xpath = "hoge"
+    apply = function(element, proseccer) {
+      
+    }
+    
+    }
 
