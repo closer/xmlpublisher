@@ -5,14 +5,14 @@ XMLPublisher is Automatic Layouting Library on Adobe InDesign.
 ## How to install
 
 ## usage
- 
+
     with(new ProcessBuilder) {
-    
+
     name = "Hoge"
     xpath = "hoge"
     apply = function(element, proseccer) {
-      
+
     }
-    
+
     }
 
